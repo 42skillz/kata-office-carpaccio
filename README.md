@@ -57,6 +57,7 @@ Instructions for the Elephant Carpaccio "the office edition" kata (i.e. Thomas' 
    - Programmers: What was it like?
    - What was difficult? How is your code? Did you managed to stick to your strategy (TDD, test-after, no-fucking-test)?
    - What did you learn? Will you change the way you slice your work?
+   - What do you want to share?
 
 
 
