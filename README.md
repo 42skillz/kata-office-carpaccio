@@ -18,7 +18,7 @@ Instructions for the Elephant Carpaccio "the office edition" kata (i.e. Thomas' 
    - Take another __5 minutes to debrief and present Alistair's value curves__ 
 ![initial debrief](./debrief-initial-question.JPG)
 
-1. Take __5 minutes to explain the audience__ that they:
+1. Take __5 minutes to explain the overall schedule to the audience__ that they:
     - Will have 20 minutes to write on paper 10-20 demo-able stories (slices) and to break-down them into 5 iterations (actually you will let them 10 more minutes for this analysis part, as explained further)
     - Will have 40 minutes in order to build an app for you in 5 iterations of 8 minutes (pairing or mobbing)
     
