@@ -1,4 +1,4 @@
-# kata-office-carpaccio
+# kata-the-office-elephant-carpaccio
 Instructions for the Elephant Carpaccio "the office edition" kata (i.e. Thomas' version of Alistair Cockburn kata; inspired this time by the Office tv series + an additional twist)
 
 
