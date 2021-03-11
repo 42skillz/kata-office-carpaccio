@@ -16,6 +16,7 @@ Instructions for the Elephant Carpaccio "the office edition" kata (i.e. Thomas' 
    - Give them __3 minutes to write down ideas on stickies__ 
    - Take __5 minutes to review all of them__
    - Take another __5 minutes to debrief and present Alistair's value curves__ 
+
 ![initial debrief](./debrief-initial-question.JPG)
 
 1. Take __5 minutes to explain the overall schedule to the audience__ that they:
