@@ -43,11 +43,10 @@ Instructions for the Elephant Carpaccio "the office edition" kata (i.e. Thomas' 
    - Ask them to define their testing strategy first (TDD, test after, no fucking test)
    - On your mark... set... go!
 
-1. __5 iterations of 8 minutes__ (don't forget to trigger the stopwatch every time)
-  - While reviewing you can ask:
-     - How many slices did you get so far?
-     - How far did you get?
-     - __*"I don't want to see code, I want to see something that run and accept my inputs"*__
+1. __5 iterations of 8 minutes__ (don't forget to trigger the stopwatch every time). While reviewing you can ask:
+   - How many slices did you get so far?
+   - How far did you get?
+   - __*"I don't want to see code, I want to see something that run and accept my inputs"*__
      - *I'm buying 1 ream of paper with a 100$ unit (free of tax) cost in Texas ("TX"): what's the output? (solution: 106.85 $ tax included)*
      - *I'm buying 3 reams of paper with a 5$ unit (free of tax) cost in Utah ("UT"): what's the output? (solution: 16.03 $ tax included)*
      - *I'm buying 700 reams of paper with a 10$ unit (free of tax) cost in California ("CA"): what's the output? (solution: 7,047.08 $ tax included)*
