@@ -6,7 +6,7 @@ Instructions for the Elephant Carpaccio "the office edition" kata (i.e. Thomas' 
 
 
 
-## Instructions
+## Instructions (takes between 1h30 and 2h)
 
 1. Welcome people and ask them to add stickies (or paper) with their name (__1 minute__)
    - Tell them that they will have to work in pair or mob (sub groups) afterwards
