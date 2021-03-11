@@ -11,7 +11,8 @@ Instructions for the Elephant Carpaccio "the office edition" kata (i.e. Thomas' 
 1. Welcome people and ask them to add stickies (or paper) with their name (__1 minute__)
    - Tell them that they will have to work in pair or mob (sub groups) afterwards
 
-1. Ask them a question (written on the white board): "*What is the value of splitting stories very small?*"
+1. Ask them a question (written on the white board): *"What is the value of splitting stories very small?"*
+
    - Give them __3 minutes to write down ideas on stickies__ 
    - Take __5 minutes to review all of them__
    - Take another __5 minutes to debrief and present Alistair's value curves__ 
