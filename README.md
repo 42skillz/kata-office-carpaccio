@@ -2,7 +2,7 @@
 Instructions for the Elephant Carpaccio "the office edition" kata (i.e. Thomas' version of Alistair Cockburn kata; inspired this time by the Office tv series + an additional twist)
 
 
-[Some details on how Thomas did it the first time:](https://twitter.com/tpierrain/status/1126416897849819136?s=20)
+[(Some details on how Thomas did it the first time)](https://twitter.com/tpierrain/status/1126416897849819136?s=20)
 
 
 
