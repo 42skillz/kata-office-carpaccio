@@ -14,16 +14,20 @@ Instructions for the Elephant Carpaccio kata (Thomas' version of Elephant Carpac
    - Take another __5 minutes to debrief and present Alistair's value curves__ 
 ![initial debrief](./debrief-initial-question.JPG)
 
-1. Gives the following instructions to the audience. Give them __10 minutes to read them carefully__ 
+1. Take __5 minutes to explain the audience__ that they:
+    - Will have 20 minutes to write on paper 10-20 demo-able stories (slices) and to break-down them into 5 iterations (actually you will let them 10 more minutes for this analysis part, as explained further)
+    - Will have 40 minutes in order to build an app for you in 5 iterations of 8 minutes (pairing or mobbing)
+    
+1. Gives them the following instructions and __10 minutes to read them carefully__ 
 ![The instructions](./The-Office-Code-Carpaccio-Instructions-Thomas-PIERRAIN.jpg)
 
-1. Let them ask you some questions about the instructions for __5 minutes__
+1. Let them ask you some questions about the instructions for __5 minutes__ and ask them to work in small group as of now
 
-1. Give them 20 minutes in order to break-down the backlog into 5 iterations of 8 minutes
+1. Give them __20 minutes in order to do the analysis and slicing of tiny and demo-able user stories (slices)__
 
-1. __*"Sorry, we've changed our mind and"*__: If they didn't ask you questions about some missing parts, interrupt them after 7 minutes with a breaking news: 
+1. __*"Sorry, we've changed our mind and"*__: After 7 minutes, interrupt all of them with a breaking news (but you can tell other groups before if they came to you with questions): 
     - "Sorry, we've changed our mind and we've decided to target the US first. Thus, you can forget France, Italy, Spain and Poland regions and follow the rules in this addendum to the specifications
-    - We've also decided to change our discouting strategy. Instead of applying a discount depending on the number of paper reams, we want to apply a discount based on the total free-of-tax price as mentionned in the addendum
+    - We've also decided to change our discounting strategy. Instead of applying a discount depending on the number of paper reams, we want to apply a discount based on the total free-of-tax price as mentionned in the addendum
 ![addendum](./Specs-addendum.JPG)
 
 1. Tell them they will have 10 more minutes to break-down the backlog into 5 iterations.
