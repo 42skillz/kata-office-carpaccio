@@ -23,20 +23,22 @@ Instructions for the Elephant Carpaccio kata (Thomas' version of Elephant Carpac
 
 1. Let them ask you some questions about the instructions for __5 minutes__ and ask them to work in small group as of now
 
-1. Give them __20 minutes in order to do the analysis and slicing of tiny and demo-able user stories (slices)__
+1. Give them __20 minutes__ in order to do the analysis and slicing of tiny and demo-able user stories (slices)
 
-1. __*"Sorry, we've changed our mind and"*__: After 7 minutes, interrupt all of them with a breaking news (but you can tell other groups before if they came to you with questions): 
+1. *"BREAKING-NEWS EVERYONE! Sorry, we've changed our mind and..."*: __After 7 minutes__, interrupt all of them with a breaking news (but you can tell other groups before if they came to you with questions): 
     - "Sorry, we've changed our mind and we've decided to target the US first. Thus, you can forget France, Italy, Spain and Poland regions and follow the rules in this addendum to the specifications
     - We've also decided to change our discounting strategy. Instead of applying a discount depending on the number of paper reams, we want to apply a discount based on the total free-of-tax price as mentionned in the addendum
 ![addendum](./Specs-addendum.JPG)
 
-1. Tell them they will have 10 more minutes to break-down the backlog into 5 iterations.
+1. Tell them __they will have 10 more minutes__ to slice their stories and break-down them into 5 iterations
 
 1. Gather them one last time before they start coding and clarifies whatever it takes. 
    - Then tell them they will have 5 iterations of 8 minutes, with a possible demo for you (the PO) every end of it.
    - Also tell them that the stopwatch won't stop between all these iterations
 
-1. Gather them for the final wrap-up
+1. __5 iterations of 8 minutes__ (don't forget to trigger the stopwatch every time)
+
+1. Gather them for the final wrap-up (__15 minutes__)
 
 
 
